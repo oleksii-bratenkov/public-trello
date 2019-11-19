@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT exists board (id serial primary key not null, title varchar(120))

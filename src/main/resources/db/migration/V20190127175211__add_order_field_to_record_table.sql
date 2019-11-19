@@ -1,0 +1,1 @@
+alter table record add record_order serial not null
